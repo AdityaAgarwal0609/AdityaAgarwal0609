@@ -1,17 +1,14 @@
+<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h3 align="center">I'm an aspiring Student, from Dehradun</h3>
 
-<h2 align="left">Hi 👋! My name is Aditya Agarwal and I'm an aspiring Student, from Dehradun</h2>
-
-###
+- 📫 How to reach me **adityapersonal0609@gmail.com**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaAgarwal0609&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaAgarwal0609&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <br/>
-  <br/>
-  <img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaAgarwal0609&theme=dracula" alt="AdityaAgarwal0609" /></p>
-  <br/>
-  <br/>
-</div>
+<br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaagarwal0609&show_icons=true&locale=en&layout=compact" alt="adityaagarwal0609" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaagarwal0609&" alt="adityaagarwal0609" /></p>
+
+<p>  <img src="https://github-readme-stats.vercel.app/api?username=AdityaAgarwal0609&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</p>
+</div>
